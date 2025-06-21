@@ -9,3 +9,5 @@ This Python script performs a internal web crawl starting from a given URL. It e
 - Avoids revisiting the same URL.
 - Respects polite crawling with configurable delay between requests.
 - Saves the list of discovered URLs to a file (`found.txt`).
+
+For Windows 64 bit
